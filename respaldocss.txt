@@ -1,0 +1,33 @@
+/*Clases generales*/
+
+h1{ background-color: #C4C4C4; 
+   text-align: center; color: #005677}
+   
+   h2 { background-color: #C4C4C4; 
+      color: #005677}
+   h3 {color: white}
+   
+      .negrita {font-style: oblique}
+      .fondo {background-color: #005677; text-align: center;}
+   
+      h4 {font-weight: bold;}
+   
+      .negritaobli{font-weight: bold; font-style: oblique; }
+      .negrita{font-weight: bold }
+
+      /*header*/
+header
+ {background-color: #E6E6E6
+   ; text-align: center;}
+
+   /*footer*/
+
+ footer {text-align: center;}
+
+
+
+
+
+
+
+  
